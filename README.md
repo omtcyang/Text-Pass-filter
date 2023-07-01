@@ -57,19 +57,6 @@ python train.py
 python train.py
 ```
 
-##Performance
-####On MSRA-TD500
-![msra](imgs/msra.png)
-####On ICDAR2015
-![msra](imgs/ic15.png)
-####On Arbitrary-Shaped-Text Datasets
-![msra](imgs/tt_ctw.png)
-
-##Visualization
-![msra](imgs/vis.png)
-
-
-
 ## Contributing to the project
 Any pull requests or issues are welcome.
 
